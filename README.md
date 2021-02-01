@@ -1,6 +1,8 @@
 # Data Encoder
 Coded By [Farhood Ghanbari](https://github.com/farhoodgh) & [Ali Javadi](https://github.com/javadimoghadam)
 
+### for c# version go to ./C# ...
+### for PHP version go to ./PHP ...
 ## Requirement
 > You need Python Version 3 or Eailer , base64 & Colorama For Run This File
 
